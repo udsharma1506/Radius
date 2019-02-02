@@ -37,9 +37,11 @@ if want to see the data on django admin, Steps to set up admin refer [here](http
 
 I have already written the script to bulk create the Properties used in this [kaggle Challenge](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texas)
 
+```python
 If you want to create more properties, use giving the mentioned inputs:
 create_property(name, location, city, country, user_id, latitude, longitude, number_of_bedrooms, number_of_bathrooms)
 
+```
 
 Usage:
 
